@@ -1,0 +1,2 @@
+C:\Lab1-Graphics-main\x64\Debug\Lab1Graphics.exe
+C:\Lab1-Graphics-main\x64\Debug\Lab1Graphics.pdb
